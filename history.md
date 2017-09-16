@@ -40,3 +40,10 @@
   * 課題作成時に記載して欲しいことをあらかじめテンプレート化しておくことができる
   * 参照 [Creating an issue template for your repository - User Documentation](https://help.github.com/articles/creating-an-issue-template-for-your-repository/)
 
+* [.github/PULL_REQUEST_TEMPLATE.md](https://github.com/officel/ghrb-jp/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
+  * プルリクエストの新規作成用テンプレートファイル
+  * プルリク作成時に記載してほしいことをあらかじめテンプレート化しておくことができる
+  * ドキュメントでは issue_template と同様に not case sensitive と書いてあるけど、こちらはドキュメントが大文字で例示されている
+  * 参照 [Creating a pull request template for your repository - User Documentation](https://help.github.com/articles/creating-a-pull-request-template-for-your-repository/)
+
+
