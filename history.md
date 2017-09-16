@@ -27,3 +27,9 @@
 * 上記４つのファイルを作成すると、[Community](https://github.com/officel/ghrb-jp/community) ページが100%になる
 * github 上でテンプレートの選択可能なファイルは、後から github 上で編集することで選択しなおすことができる
 * リポジトリルートをシンプルに保ちたいので置いていいファイルは .github ディレクトリに配置する
+
+* [.github/SUPPORT.md](https://github.com/officel/ghrb-jp/blob/master/.github/SUPPORT.md)
+  * サポート、ヘルプ等を記載するファイル
+  * 参照 [Adding support resources to your project - User Documentation](https://help.github.com/articles/adding-support-resources-to-your-project/)
+  * 例 [atom/SUPPORT.md at master · atom/atom](https://github.com/atom/atom/blob/master/SUPPORT.md)
+  * 配置すると、 github 上で ISSUE を作成する際にリンクが表示される
