@@ -32,7 +32,8 @@
   * サポート、ヘルプ等を記載するファイル
   * 参照 [Adding support resources to your project - User Documentation](https://help.github.com/articles/adding-support-resources-to-your-project/)
   * 例 [atom/SUPPORT.md at master · atom/atom](https://github.com/atom/atom/blob/master/SUPPORT.md)
-  * 配置すると、 github 上で ISSUE を作成する際にリンクが表示される（はずなんだけど機能しない。.githubディレクトリだから？）
+  * 配置すると、 github 上で ISSUE を作成する際にリンクが表示される（はずなんだけど機能しない。~~.githubディレクトリだから？~~ ルートに置いてもダメだった）
+  * 比較的新しい機能みたい [SUPPORT file support](https://github.com/blog/2400-support-file-support)
 
 * [.github/issue_template.md](https://github.com/officel/ghrb-jp/blob/master/.github/issue_template.md)
   * 課題の新規作成用テンプレートファイル
