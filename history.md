@@ -35,7 +35,7 @@
   * 配置すると、 github 上で ISSUE を作成する際にリンクが表示される（はずなんだけど機能しない。~~.githubディレクトリだから？~~ ルートに置いてもダメだった）
   * 比較的新しい機能みたい [SUPPORT file support](https://github.com/blog/2400-support-file-support)
 
-* [.github/issue_template.md](https://github.com/officel/ghrb-jp/blob/master/.github/issue_template.md)
+* [.github/ISSUE_TEMPLATE.md](https://github.com/officel/ghrb-jp/blob/master/.github/ISSUE_TEMPLATE.md)
   * 課題の新規作成用テンプレートファイル
   * 課題作成時に記載して欲しいことをあらかじめテンプレート化しておくことができる
   * 参照 [Creating an issue template for your repository - User Documentation](https://help.github.com/articles/creating-an-issue-template-for-your-repository/)
