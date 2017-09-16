@@ -1,4 +1,8 @@
 <!-- ISSUE TEMPLATE -->
+## What the ISSUE
 
-* 新しい ISSUE を登録する際のテンプレート
-* @todo 記載するべき内容の精査
+## Why do
+
+## How to
+
+## When 
