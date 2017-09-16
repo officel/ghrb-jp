@@ -46,4 +46,6 @@
   * ドキュメントでは issue_template と同様に not case sensitive と書いてあるけど、こちらはドキュメントが大文字で例示されている
   * 参照 [Creating a pull request template for your repository - User Documentation](https://help.github.com/articles/creating-a-pull-request-template-for-your-repository/)
 
+* ISSUE 作成時のリンクが出現しないので、日本語を削除して英語のみに修正してみたが解消しなかった
+* Contact Github ページからヘルプを投げてみた。返事待ち
 
