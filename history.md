@@ -32,7 +32,7 @@
   * サポート、ヘルプ等を記載するファイル
   * 参照 [Adding support resources to your project - User Documentation](https://help.github.com/articles/adding-support-resources-to-your-project/)
   * 例 [atom/SUPPORT.md at master · atom/atom](https://github.com/atom/atom/blob/master/SUPPORT.md)
-  * 配置すると、 github 上で ISSUE を作成する際にリンクが表示される（はずなんだけど機能しない。~~.githubディレクトリだから？~~ ルートに置いてもダメだった）
+  * 配置すると、 github 上で ISSUE を作成する際にリンクが表示される ~~（はずなんだけど機能しない。.githubディレクトリだから？ ルートに置いてもダメだった）~~
   * 比較的新しい機能みたい [SUPPORT file support](https://github.com/blog/2400-support-file-support)
 
 * [.github/ISSUE_TEMPLATE.md](https://github.com/officel/ghrb-jp/blob/master/.github/ISSUE_TEMPLATE.md)
@@ -48,4 +48,5 @@
 
 * ISSUE 作成時のリンクが出現しないので、日本語を削除して英語のみに修正してみたが解消しなかった
 * Contact Github ページからヘルプを投げてみた。返事待ち
+* 返事来た。自分のリポジトリだと表示されないことがあるけど他のユーザには表示されてるから。とだけ返ってきた。
 
