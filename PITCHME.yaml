@@ -1,0 +1,60 @@
+# Slideshow Look and Feel
+
+# https://github.com/gitpitch/gitpitch/wiki/Theme-Setting
+# 設定するとWebUIで変更できなくなることに注意
+# theme : white
+
+# https://github.com/gitpitch/gitpitch/wiki/Background-Setting
+# 設定すると全ページに適用されることに注意
+# background : 
+# background-size :
+
+# https://github.com/gitpitch/gitpitch/wiki/Logo-Setting
+# logo :
+
+# https://github.com/gitpitch/gitpitch/wiki/Highlight-Setting
+# highlight : monokai
+
+# https://github.com/gitpitch/gitpitch/wiki/Slide-Number-Setting
+slide-number : true
+
+# https://github.com/gitpitch/gitpitch/wiki/Footnote-Setting
+footnote : "© 2017 Office L."
+
+# https://github.com/gitpitch/gitpitch/wiki/Math-Notation-Setting
+# mathjax : TeX-MML-AM_HTMLorMML-full
+
+# https://github.com/gitpitch/gitpitch/wiki/Vertical-Center-Setting
+# vertical-center : false
+
+# https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS
+# theme-override : assets/css/PITCHME.css
+
+
+# Slideshow Behavior
+
+# https://github.com/gitpitch/gitpitch/wiki/Auto-Slide-Setting
+# autoslide : 5000
+
+# https://github.com/gitpitch/gitpitch/wiki/Loop-Setting
+# loop : true
+
+# https://github.com/gitpitch/gitpitch/wiki/RTL-Setting
+# 日本語では不要
+# rtl : true
+
+# https://github.com/gitpitch/gitpitch/wiki/Transition-Setting
+# convex, concave, default, fade, none, slide and zoom
+transition : fade
+
+# https://github.com/gitpitch/gitpitch/wiki/Mouse-Wheel-Setting
+mousewheel : true
+
+
+# https://github.com/gitpitch/gitpitch/wiki/Remote-Control-Navigation
+remote-control: true
+
+
+# https://github.com/gitpitch/gitpitch/wiki/Google-Analytics
+gatoken : UA-102556709-1
+
