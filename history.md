@@ -50,3 +50,8 @@
 * Contact Github ページからヘルプを投げてみた。返事待ち
 * 返事来た。自分のリポジトリだと表示されないことがあるけど他のユーザには表示されてるから。とだけ返ってきた。
 
+* [docs/index.html](https://github.com/officel/ghrb-jp/blob/master/docs/index.html)
+  * GitHub Pages を使う
+  * 参照 [GitHub Help](https://help.github.com/categories/github-pages-basics/)
+  * settings - options - GitHub Pages で master branch / docs folder を選択
+  * 出来上がるページ [GitHub Repository Boilerplate for Japanese](https://officel.github.io/ghrb-jp/)
