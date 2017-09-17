@@ -55,3 +55,8 @@
   * 参照 [GitHub Help](https://help.github.com/categories/github-pages-basics/)
   * settings - options - GitHub Pages で master branch / docs folder を選択
   * 出来上がるページ [GitHub Repository Boilerplate for Japanese](https://officel.github.io/ghrb-jp/)
+
+* [.gitignore](https://github.com/officel/ghrb-jp/blob/master/.gitignore)
+  * 対象外にするファイルやフォルダを管理するファイル
+  * github上からテンプレートを選択することができる
+  * [github/gitignore: A collection of useful .gitignore templates](https://github.com/github/gitignore) テンプレートのリポジトリ
