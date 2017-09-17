@@ -1,5 +1,4 @@
-### Github repository boilerplate for japanese Edit
-
+### Github repository boilerplate for japanese
 ---
 
 ### About
