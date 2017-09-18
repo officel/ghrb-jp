@@ -16,12 +16,13 @@
 
 * README.md
 * LICENSE
+* .gitignore
 * .github/
-  * CODE_OF_CONDUCT.md
-  * CONTRIBUTING.md
-  * ISSUE_TEMPLATE.md
-  * PULL_REQUEST_TEMPLATE.md
-  * SUPPORT.md
+    * CODE_OF_CONDUCT.md
+    * CONTRIBUTING.md
+    * ISSUE_TEMPLATE.md
+    * PULL_REQUEST_TEMPLATE.md
+    * SUPPORT.md
 * docs/
 
 +++
@@ -40,8 +41,15 @@
 * ライセンスを表示
 * リポジトリ作成時に選択可
 * 選択したテンプレートを使用するとgithub上での表示が変わる
-* https://github.com/officel/ghrb-jp/blob/master/LICENSE
+* [LICENSE](https://github.com/officel/ghrb-jp/blob/master/LICENSE)
 * リポジトリのトップ上部にも表示される
+
++++
+
+#### .gitignore
+
+* トラッキング対象外にするファイルまたはディレクトリを指定する
+* [github/gitignore: A collection of useful .gitignore templates](https://github.com/github/gitignore)
 
 +++
 
@@ -98,15 +106,19 @@
 
 * https://git.io/
 
-  * Github用の短縮URL生成
+    * Github用の短縮URL生成
 
 * https://pages.github.com/
 
-  * Githubで静的コンテンツのホスティング
+    * Githubで静的コンテンツのホスティング
 
 * https://gitpitch.com/
 
-  * マークダウンでプレゼンテーション（これ）
+    * マークダウンでプレゼンテーション（これ）
+
+* https://groups.google.com/
+
+    * Google Group でフォーラムを作るとMLが使える
 
 ---
 
@@ -115,5 +127,3 @@
 Thank you
 
 see https://github.com/officel/ghrb-jp
-
----
