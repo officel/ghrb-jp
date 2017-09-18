@@ -28,9 +28,18 @@
 
 #### README.md
 
+* リポジトリ作成時に自動生成
+* リポジトリの説明等を記載する
+* バッヂがあると華やか
+
 +++
 
 #### LICENSE
+
+* リポジトリ作成時に選択可
+* テンプレートを使用するとgithub上での表示が変わる
+* https://github.com/officel/ghrb-jp/blob/master/LICENSE
+* リポジトリのトップ上部にも表示される
 
 +++
 
