@@ -99,7 +99,7 @@
 #### .github/SUPPORT.md
 
 * 2017年追加の新機能 - [SUPPORT file support](https://github.com/blog/2400-support-file-support)
-* ISSUEやPULL REQUESTを作成する前に読んでもらう
+* ISSUEやPRsを作成する前に読んでもらう
 * ドキュメントやヘルプへのリンクを記載
 * ISSUE作成時にリンクが表示される
 
@@ -107,10 +107,10 @@
 
 #### docs/
 
-* GitHub Pages を使ってコンテンツをホスティング
-* Web系アプリのリポジトリで被らないように注意
-* 別ブランチ運用か、docs フォルダ固定なので注意
-* コンテンツ作成ツールで生成させると便利（ドキュメントなど）
+* GitHub Pagesを使ってコンテンツをホスティング
+* Web系のリポジトリで被らないように注意
+* 別ブランチ運用かdocsフォルダ固定なので注意
+* コンテンツ作成ツールで生成させると便利
 
 ---
 
