@@ -1,4 +1,4 @@
-### Github repository boilerplate for japanese
+### GitHub Repository Boilerplate for japanese
 
 ©2017 Office L 
 
@@ -28,16 +28,18 @@
 
 #### README.md
 
-* リポジトリ作成時に自動生成
-* リポジトリの説明等を記載する
+* リポジトリの顔
+* 作成時に自動生成可
+* 説明等を記載する
 * バッヂがあると華やか
 
 +++
 
 #### LICENSE
 
+* ライセンスを表示
 * リポジトリ作成時に選択可
-* テンプレートを使用するとgithub上での表示が変わる
+* 選択したテンプレートを使用するとgithub上での表示が変わる
 * https://github.com/officel/ghrb-jp/blob/master/LICENSE
 * リポジトリのトップ上部にも表示される
 
@@ -45,25 +47,50 @@
 
 #### .github/CODE_OF_CONDUCT.md
 
+* 行動規範について記載
+* みんな仲良く
+* ISSUE作成時にリンクが表示される
+
 +++
 
 #### .github/CONTRIBUTING.md
+
+* 貢献の仕方について記載
+* テンプレートはない
+* 開発中のOSSなどでは貢献をお断りしていることもある
+* ISSUE作成時にリンクが表示される
 
 +++
 
 #### .github/ISSUE_TEMPLATE.md
 
+* ISSUE作成時のテンプレート
+* 記載して欲しい内容をあらかじめ項目建てておくなど
+
 +++
 
 #### .github/PULL_REQUEST_TEMPLATE.md
+
+* PULL REQUEST作成時のテンプレート
+* 記載して欲しい内容をあらかじめ項目建てておくなど
 
 +++
 
 #### .github/SUPPORT.md
 
+* 2017年追加の新機能
+* ISSUEやPULL REQUESTを作成する前に読んでもらう
+* ドキュメントやヘルプへのリンクを記載
+* ISSUE作成時にリンクが表示される
+
 +++
 
 #### docs/
+
+* GitHub Pages を使ってコンテンツをホスティング
+* Web系アプリのリポジトリで被らないように注意
+* 別ブランチ運用か、docs フォルダ固定なので避けられない
+* コンテンツ作成ツールで生成させると便利（ドキュメントなど）
 
 ---
 
