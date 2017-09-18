@@ -28,7 +28,7 @@ footnote : "© 2017 Office L."
 # vertical-center : false
 
 # https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS
-# theme-override : assets/css/PITCHME.css
+theme-override : PITCHME.css
 
 
 # Slideshow Behavior
