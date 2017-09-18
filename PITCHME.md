@@ -96,4 +96,16 @@
 
 ### ツール
 
+* https://git.io/
+
+  * Github用の短縮URL生成
+
+* https://pages.github.com/
+
+  * Githubで静的コンテンツのホスティング
+
+* https://gitpitch.com/
+
+  * マークダウンでプレゼンテーション（これ）
+
 
