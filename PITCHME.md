@@ -117,41 +117,30 @@
 ### Github運営サービス
 
 * https://git.io/
-
-    * Github用の短縮URL生成
-
+   * Github用の短縮URL生成
 * https://pages.github.com/
-
-    * Githubで静的コンテンツのホスティング
-
+   * Githubで静的コンテンツのホスティング
 * https://github.com/works-with
-
-    * Github連携サービスを探す
+   * Github連携サービスを探す
 
 ---
 
 ### 連携サービス
 
 * https://gitpitch.com/
-
-    * マークダウンでプレゼンテーション（これ）
-
+   * マークダウンでプレゼンテーション（これ）
 * https://gitter.im/
-
-    * チャットサービス
+   * チャットサービス
 
 ---
 
 ### 連携ではないけど便利サービス
 
 * https://groups.google.com/
-
-    * Google Group でフォーラムを作るとMLが使える
-    * 連絡先にフォーラムMLを使うと便利
-
+   * Google Group でフォーラムを作るとMLが使える
+   * 連絡先にフォーラムMLを使うと便利
 * https://shields.io/
-
-    * README等にバッヂを貼る
+   * README等にバッヂを貼る
 
 ---
 
