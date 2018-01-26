@@ -10,7 +10,11 @@ Github repository boilerplate for japanese
 
 github をかっこよく使うために、形から入れるボイラープレートを作成しています。
 
+## Issue Template
 
+* [:bug: Bugs](https://github.com/officel/ghrb-jp/issues/new?template=bugs.md)
+* [:fearful: Feature Requests](https://github.com/officel/ghrb-jp/issues/new?template=feature.md)
+* [:question: Questions](https://github.com/officel/ghrb-jp/issues/new?template=question.md)
 
 
 ## License

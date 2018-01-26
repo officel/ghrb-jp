@@ -1,5 +1,5 @@
 <!--
-ISSUE_TEMPLATE/issue.md
+ISSUE_TEMPLATE/feature.md
 要望用テンプレート
 -->
 
