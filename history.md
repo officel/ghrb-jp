@@ -39,6 +39,7 @@
   * 課題の新規作成用テンプレートファイル
   * 課題作成時に記載して欲しいことをあらかじめテンプレート化しておくことができる
   * 参照 [Creating an issue template for your repository - User Documentation](https://help.github.com/articles/creating-an-issue-template-for-your-repository/)
+  * [Multiple issue and pull request templates](https://github.com/blog/2495-multiple-issue-and-pull-request-templates)
 
 * [.github/PULL_REQUEST_TEMPLATE.md](https://github.com/officel/ghrb-jp/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
   * プルリクエストの新規作成用テンプレートファイル
