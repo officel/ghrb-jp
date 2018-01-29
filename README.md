@@ -16,6 +16,13 @@ github をかっこよく使うために、形から入れるボイラープレ�
 * [:fearful: Feature Requests](https://github.com/officel/ghrb-jp/issues/new?template=feature.md)
 * [:question: Questions](https://github.com/officel/ghrb-jp/issues/new?template=question.md)
 
+## Github Projects Notes
+
+* 期間や機能や情報共有窓口として複数のプロジェクトを追加
+* 各プロジェクトでの使い方ルールを決める
+* card からの Convert to Issue は使用しない（templateが使えないので）
+* 逆に card を編集して、issue, PR へのリンクを貼るのは便利
+* [awesome projects](https://github.com/officel/ghrb-jp/projects/3)
 
 ## License
 
