@@ -5,6 +5,7 @@ Please use other templates.
 * [Bugs](./new?template=bugs.md)
 * [Feature Requests](./new?template=feature.md)
 * [Questions](./new?template=question.md)
+* [Examine](./new?template=examine.md)
 
 Thank you.
 
