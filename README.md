@@ -9,17 +9,11 @@ Github repository boilerplate for japanese
 
 github をかっこよく使うために、形から入れるボイラープレートを作成しています。
 
-## Issue Template
+![image](https://user-images.githubusercontent.com/110354/143000695-1522aad0-0299-4604-901f-7bea30b991f5.png)
 
-* [:bug: Bugs](https://github.com/officel/ghrb-jp/issues/new?template=bugs.md)
-* [:fearful: Feature Requests](https://github.com/officel/ghrb-jp/issues/new?template=feature.md)
-* [:question: Questions](https://github.com/officel/ghrb-jp/issues/new?template=question.md)
+ここから新規リポジトリを作成するとこのリポジトリをテンプレートとして使用できます。
+（普通にcloneして `rm -fr .git` したほうがクリーンかもしれませんが）
 
-## Github Projects Notes
-
-* 期間や機能や情報共有窓口として複数のプロジェクトを追加
-* 各プロジェクトでの使い方ルールを決める
-* card からの Convert to Issue は使用しない（templateが使えないので）
 
 ## License
 
