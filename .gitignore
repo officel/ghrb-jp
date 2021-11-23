@@ -1,16 +1,8 @@
-# Node rules:
-## Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
-.grunt
+# use https://github.com/github/gitignore
 
-## Dependency directory
-## Commenting this out is preferred by some people, see
-## https://docs.npmjs.com/misc/faq#should-i-check-my-node_modules-folder-into-git
-node_modules
+# see
+# https://github.com/github/gitignore/tree/master/Global
+# https://kmyk.github.io/blog/blog/2020/11/08/man-gitignore/
 
-# Book build output
-_book
+# @todo gitignoreについてチームメンバーと合意を取りましょう
 
-# eBook build output
-*.epub
-*.mobi
-*.pdf
